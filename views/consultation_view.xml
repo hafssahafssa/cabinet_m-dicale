@@ -1,0 +1,12 @@
+<odoo>
+
+    <record model="ir.actions.act_window" id="consultation_action_window">
+        <field name="name">Consultation</field>
+         <field name="res_model">product.template</field>
+        <field name="view_mode">kanban,form</field>
+
+    </record>
+    <menuitem name="Consulation" id="cabinet_consultation_cat" parent="cabinet_menu_root"
+             sequence="2" action="consultation_action_window"/>
+
+</odoo>

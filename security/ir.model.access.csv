@@ -1,0 +1,9 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+access_cabinet_Ordonance,cabinet_ordonance,model_cabinet_ordonance,,1,1,1,1
+
+access_cabinet_medicament,cabinet_medicament,model_cabinet_medicament,,1,1,1,1
+access_cabinet_paiment,cabinet_paiment,model_cabinet_medicament,,1,1,1,1
+access_ordonance_medicament_lines,ordonance.medicament.lines,model_ordonance_medicament_lines,,1,1,1,1
+
+
